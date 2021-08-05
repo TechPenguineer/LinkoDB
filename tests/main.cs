@@ -11,7 +11,8 @@ namespace LinkoDB.tests
     {
         public void testing()
         {
-            linko
+            String code_data = "print('')"
+            
         }
     }
 }
