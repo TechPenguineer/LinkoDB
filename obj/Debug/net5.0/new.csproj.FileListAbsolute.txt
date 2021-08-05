@@ -1,0 +1,16 @@
+D:\DEV\apps\LinkoDB\new\bin\Debug\net5.0\new.exe
+D:\DEV\apps\LinkoDB\new\bin\Debug\net5.0\new.deps.json
+D:\DEV\apps\LinkoDB\new\bin\Debug\net5.0\new.runtimeconfig.json
+D:\DEV\apps\LinkoDB\new\bin\Debug\net5.0\new.runtimeconfig.dev.json
+D:\DEV\apps\LinkoDB\new\bin\Debug\net5.0\new.dll
+D:\DEV\apps\LinkoDB\new\bin\Debug\net5.0\ref\new.dll
+D:\DEV\apps\LinkoDB\new\bin\Debug\net5.0\new.pdb
+D:\DEV\apps\LinkoDB\new\obj\Debug\net5.0\new.csproj.AssemblyReference.cache
+D:\DEV\apps\LinkoDB\new\obj\Debug\net5.0\new.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\apps\LinkoDB\new\obj\Debug\net5.0\new.AssemblyInfoInputs.cache
+D:\DEV\apps\LinkoDB\new\obj\Debug\net5.0\new.AssemblyInfo.cs
+D:\DEV\apps\LinkoDB\new\obj\Debug\net5.0\new.csproj.CoreCompileInputs.cache
+D:\DEV\apps\LinkoDB\new\obj\Debug\net5.0\new.dll
+D:\DEV\apps\LinkoDB\new\obj\Debug\net5.0\ref\new.dll
+D:\DEV\apps\LinkoDB\new\obj\Debug\net5.0\new.pdb
+D:\DEV\apps\LinkoDB\new\obj\Debug\net5.0\new.genruntimeconfig.cache
