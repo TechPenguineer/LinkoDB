@@ -11,5 +11,9 @@ public class linko
     {
 
     }
+    public static void CreateFromSchema(Schema schema)
+    {
+
+    }
 }
 

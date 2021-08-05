@@ -4,15 +4,20 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using LinkoDB;
-
 namespace LinkoDB.tests
 {
     class main
     {
         public void testing()
         {
-            String code_data = "print('')"
-            
+            string code_data = "print('Hello World!')";
+
+            Schema new_code_scene = new Schema
+            {
+                CodeContent = code_data,
+                CodeLanguage = "Python",
+                useTimeStamp = true
+            };
         }
     }
 }

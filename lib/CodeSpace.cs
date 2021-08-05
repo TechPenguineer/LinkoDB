@@ -1,10 +1,14 @@
-﻿namespace LinkoDB
+﻿using System.IO;
+namespace LinkoDB
 {
     public class CodeSpace
     {
-        public string CodeSpace()
+       
+        public static string CodeSpaceVar(string File)
         {
+            string file_content="";
 
+            return file_content;
         }
     }
 }
