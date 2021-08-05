@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "CYVOG72/m1ZrH1W9theS+yuLgcfRCHZfMjGdNAuM/zAXJfjCtSji+hz/umLa372VKOeOhti5oAG4TiIbb8nKNQ==",
+  "dgSpecHash": "ikQ+5spJArQ98x3S++1DCl39rUcZoRN0XSsWsqr4qsdD2SbMZ8XpmwWVTf3+z7wZRTmFVe8HtcyAEdBtoF3icw==",
   "success": true,
   "projectFilePath": "D:\\DEV\\apps\\LinkoDB\\LinkoDB.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Dev\\.nuget\\packages\\system.text.json\\5.0.2\\system.text.json.5.0.2.nupkg.sha512"
+  ],
   "logs": []
 }

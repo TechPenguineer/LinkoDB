@@ -16,7 +16,9 @@ namespace LinkoDB.tests
             {
                 CodeContent = code_data,
                 CodeLanguage = "Python",
-                useTimeStamp = true
+                useTimeStamp = true,
+                GroupName = "Testing",
+                DataName = "TestingData"
             };
         }
     }
