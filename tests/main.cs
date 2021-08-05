@@ -11,7 +11,7 @@ namespace LinkoDB.tests
     {
         public void testing()
         {
-            
+            linko
         }
     }
 }

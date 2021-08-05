@@ -4,9 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LinkoDB.lib
+public class linko
 {
-    class CreateCode
+    public static void CreateData()
     {
+
     }
 }
+
