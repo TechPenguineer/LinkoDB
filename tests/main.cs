@@ -20,6 +20,8 @@ namespace LinkoDB.tests
                 GroupName = "Testing",
                 DataName = "TestingData"
             };
+
+            linko.CreateFromSchema(new_code_scene);
         }
     }
 }

@@ -10,7 +10,7 @@ using System.Text.Json;
 public class linko
 {
     public static string appdataEnv = Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData);
-    public static string database_folder = $"{appdataEnv}\\linko";
+    public static string database_folder = $"{appdataEnv}\\linko\\data";
     private static void createDataFolder()
     {
         if (!Directory.Exists(database_folder))
@@ -25,7 +25,11 @@ public class linko
     public static void CreateFromSchema(Schema schema)
     {
         createDataFolder();
-        var json = new JsonSerializer().Serialize(schema);
+        var json = JsonSerializer.Serialize(schema);
+        Console.WriteLine(json);
+        //if(File.Exists($"{database_folder}\\{json.}")
+    
     }
+
 }
 

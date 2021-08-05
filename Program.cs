@@ -1,23 +1,24 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using System.Windows.Forms;
+﻿using System;
+using LinkoDB;
 
-namespace LinkoDB
+namespace LinkoDB.tests
 {
-    static class Program
+    class Program
     {
-        /// <summary>
-        ///  The main entry point for the application.
-        /// </summary>
-        [STAThread]
-        static void Main()
+        static void Main(string[] args)
         {
-            Application.SetHighDpiMode(HighDpiMode.SystemAware);
-            Application.EnableVisualStyles();
-            Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            string code_data = "print('Hello World!')";
+
+            Schema new_code_scene = new Schema
+            {
+                CodeContent = code_data,
+                CodeLanguage = "Python",
+                useTimeStamp = true,
+                GroupName = "Testing",
+                DataName = "TestingData"
+            };
+
+            linko.CreateFromSchema(new_code_scene);
         }
     }
 }
